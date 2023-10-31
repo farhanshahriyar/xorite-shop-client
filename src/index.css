@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font inter family  */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* scroll bar */
+/* html.has-scroll-smooth {
+    overflow: hidden;
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+html.has-scroll-dragging {
+    user-select: none;
+} */
+
+html {
+    scroll-behavior: smooth;
+}

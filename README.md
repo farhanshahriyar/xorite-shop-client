@@ -18,7 +18,6 @@ Xorite website is a repair shop where people can cycling runs in our veins. With
 
 - **Installation** Clone the repository:
 ```
-bash 
     https://github.com/farhanshahriyar/xorite-shop-client
     cd xorite-shop-client
     npm i
